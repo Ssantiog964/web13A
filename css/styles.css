@@ -1,0 +1,41 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+.table{
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: 1rem;
+    border: 2px black;
+   
+}
+.head tr, th{
+    background-color: rgba(220, 122, 17, 0.878);
+    border-color: black;
+    border: 2px solid black;
+
+}
+.notas{
+    background-color: rgb(227, 38, 25);
+}
+.nombre{
+    background-color: rgb(233, 73, 45);
+    text-align: left;
+}
+.semestre{
+    background-color: rgb(233, 73, 45);
+    text-align: left;
+}
+tbody  tr, td{
+    background-color: rgb(220, 122, 17, 0.878);
+    border: 2px solid black;
+    border-color: black;
+}
+tfoot tr, td{
+    text-align: center;
+    background-color: rgb(220, 122, 17, 0.878);
+    border: 2px solid black;
+    border-color: black;
+}
